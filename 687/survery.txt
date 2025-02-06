@@ -1,0 +1,29 @@
+# Do you prefer to go by a nickname or a name not listed on your official university record?
+
+(Jay)
+
+# What is your title (Mr., Ms., Dr., Lord, etc.) and what are your pronouns (he, her, etc.)?
+
+(he/him)
+
+# Why are you taking the course?
+
+(Mobile security is a thing that I am interested in because I am working on an android app development for a tunnels to towers foundation. During that project, I realised that authentication security is a very base level of security and there is more to it. Which made me curious about security. So, I decided to do a cybersecurity certificate and chose this class as my interest.)
+
+# What do you hope to learn in this course?
+
+(I genuinely don't know what I am expecting from this course. Mainly what I think would be ideal is to understand the base of security along with the mobile security aspect. But, I am very excited to dive into this realm of security.)
+
+# Is there anything you'd like the instructor to know about you?
+
+(I am someone who just started in this field and have no previous exposure to security classes like cyber defense and all, so there might be questions from my side which could be very basic and correlated to topic)
+
+# Do you have any suggestions for the course or concerns about the course?
+
+(None for now. If anything I will let you know)
+
+# The instructor will be scheduling office hours according to times that students are available. Indicate when you could attend office hours by changing the template below. Please list as many times as possible. This document will be processed automatically so please do not use prose text.
+
+Mondays: 11:00 - 3:00, 4:00 - 5:00
+Wednesdays: 11:00 - 3:00, 4:00 - 5:00
+Fridays: 11:00 - 3:00, 4:00 - 5:00
